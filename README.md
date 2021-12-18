@@ -1,4 +1,4 @@
-# tailwindcss-darkmode
+# tailwindcss-doc-darkmode
 CSS dark theme for the Tailwind CSS documentation. Temporary solution until the Tailwind CSS team release their official dark theme. 
 ![Screen Shot 2021-12-18 at 2 36 40 AM](https://user-images.githubusercontent.com/7649906/146636573-7412819c-43c8-4646-8fbb-82f6a9d0a3fc.png)
 
